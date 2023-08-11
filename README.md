@@ -12,6 +12,7 @@
 
 
 <h2>🤳Connect with me:</h2>
+ https://www.linkedin.com/in/cameron-douglas-a63922134
 
 [twitter]: https://twitter.com/Cameron
 [instagram]: https://www.instagram.com/Cameron
